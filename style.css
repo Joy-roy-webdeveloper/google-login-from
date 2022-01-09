@@ -1,0 +1,30 @@
+#email,#password{
+	width: 300px;
+	height: 40px;
+	color: black;
+	padding: 10px
+
+
+}
+
+@media screen and (max-width: 993px) {
+ #email,#password{
+	width: 300px;
+	height: 40px;
+	color: black;
+	padding: 10px
+
+
+}
+
+#divs{
+	width: 600px!important;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+#divs{
+	width: 400px!important;
+}
+}
